@@ -1,0 +1,6 @@
+{
+  "name": "BLOCKBANK",
+  "description": "Blockchain-Based Banking Portal with Automatic Savings and Audit System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
